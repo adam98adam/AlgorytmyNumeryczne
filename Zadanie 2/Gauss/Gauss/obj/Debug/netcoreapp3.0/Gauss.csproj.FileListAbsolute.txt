@@ -1,0 +1,11 @@
+C:\Users\Adam\source\repos\Gauss\Gauss\bin\Debug\netcoreapp3.0\Gauss.exe
+C:\Users\Adam\source\repos\Gauss\Gauss\bin\Debug\netcoreapp3.0\Gauss.deps.json
+C:\Users\Adam\source\repos\Gauss\Gauss\bin\Debug\netcoreapp3.0\Gauss.runtimeconfig.json
+C:\Users\Adam\source\repos\Gauss\Gauss\bin\Debug\netcoreapp3.0\Gauss.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\Gauss\Gauss\bin\Debug\netcoreapp3.0\Gauss.dll
+C:\Users\Adam\source\repos\Gauss\Gauss\bin\Debug\netcoreapp3.0\Gauss.pdb
+C:\Users\Adam\source\repos\Gauss\Gauss\obj\Debug\netcoreapp3.0\Gauss.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\Gauss\Gauss\obj\Debug\netcoreapp3.0\Gauss.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\Gauss\Gauss\obj\Debug\netcoreapp3.0\Gauss.AssemblyInfo.cs
+C:\Users\Adam\source\repos\Gauss\Gauss\obj\Debug\netcoreapp3.0\Gauss.dll
+C:\Users\Adam\source\repos\Gauss\Gauss\obj\Debug\netcoreapp3.0\Gauss.pdb
